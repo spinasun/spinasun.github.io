@@ -1,4 +1,4 @@
 module.exports = {
-    publicPath: '/rs_sim2/',
+    publicPath: './',
     outputDir: 'docs'
 }
